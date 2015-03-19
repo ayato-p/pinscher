@@ -1,0 +1,28 @@
+{
+  "name": "pinscher",
+  "version": "0.0.1",
+  "description": "async helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayato0211/pinscher.git"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "memoize"
+  ],
+  "author": "ayato_p",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayato0211/pinscher/issues"
+  },
+  "homepage": "https://github.com/ayato0211/pinscher",
+  "dependencies": {
+    "underscore": "^1.8.2",
+    "ypromise": "^0.3.0"
+  }
+}
