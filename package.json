@@ -24,5 +24,8 @@
   "dependencies": {
     "underscore": "^1.8.2",
     "ypromise": "^0.3.0"
+  },
+  "devDependencies": {
+    "querystring": "^0.2.0"
   }
 }
